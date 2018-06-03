@@ -2,9 +2,9 @@
   "environments": {
     "test": {
     "scripts": {
-        "test": "phpunit"
-      }
+        "test": "nose test"
     }
+    } 
   },
   "name": "Superset on Heroku",
   "description": "Data exploration platform designed to be visual, intuitive, and interactive",
