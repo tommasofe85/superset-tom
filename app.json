@@ -12,12 +12,4 @@
       "url": "heroku/python"
     }
   ]
-{
-  "environments": {
-    "test": {
-      "env": "" {
-      }
-    }
-  }
-}
 }
